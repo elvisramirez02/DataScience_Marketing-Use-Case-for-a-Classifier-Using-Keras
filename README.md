@@ -116,7 +116,3 @@ Here are some potential use cases for this type of project:
 - **Focus on ROI**: Highlight how the project can lead to cost savings and increased revenue through better customer satisfaction.
 - **Data-Driven Insights**: Emphasize the importance of making decisions based on data analysis.
 - **Scalability**: Explain how the solution can scale with the business as it grows.
-
----
-
-This README includes comprehensive details on the project, steps for execution, and emphasizes your machine learning and data science skills using classification models.
